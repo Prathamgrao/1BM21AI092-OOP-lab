@@ -57,4 +57,10 @@
 ![image](https://github.com/Prathamgrao/1BM21AI092-OOP-lab/assets/138456172/549c11a3-9e3b-496f-85e7-ca6e8db11547)
 
 
+12.class complex
+
+![image](https://github.com/Prathamgrao/1BM21AI092-OOP-lab/assets/138456172/12e7ddfb-548d-48e4-a8e3-335458acc4e3)
+
+
+
 
