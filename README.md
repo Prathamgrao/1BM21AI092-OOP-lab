@@ -41,3 +41,20 @@
 8.class song
 
 ![image](https://github.com/Prathamgrao/1BM21AI092-OOP-lab/assets/138456172/9b614097-1978-4e6b-acb0-1afe5dc4417f)
+
+
+9.class bms
+
+![image](https://github.com/Prathamgrao/1BM21AI092-OOP-lab/assets/138456172/27a5acd2-0242-4052-a3bf-10f915d9dc4d)
+
+
+10.class calculator
+
+![image](https://github.com/Prathamgrao/1BM21AI092-OOP-lab/assets/138456172/3d05ee1c-a745-499e-a9d6-6d320ceb6790)
+
+11.class student using class method
+
+![image](https://github.com/Prathamgrao/1BM21AI092-OOP-lab/assets/138456172/549c11a3-9e3b-496f-85e7-ca6e8db11547)
+
+
+
