@@ -71,3 +71,6 @@
 ![image](https://github.com/Prathamgrao/1BM21AI092-OOP-lab/assets/138456172/addaa913-5bd9-4251-8f12-282ea91be37b)
 
 
+15.class car
+![image](https://github.com/Prathamgrao/1BM21AI092-OOP-lab/assets/138456172/02c70860-db85-498f-8937-3d9b3c30a66c)
+
