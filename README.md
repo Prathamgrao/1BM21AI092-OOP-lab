@@ -62,5 +62,10 @@
 ![image](https://github.com/Prathamgrao/1BM21AI092-OOP-lab/assets/138456172/12e7ddfb-548d-48e4-a8e3-335458acc4e3)
 
 
+13.class vehicle
+![image](https://github.com/Prathamgrao/1BM21AI092-OOP-lab/assets/138456172/3efe3b8c-4da0-4335-8a3b-caa58e8c0da4)
+
+
+
 
 
